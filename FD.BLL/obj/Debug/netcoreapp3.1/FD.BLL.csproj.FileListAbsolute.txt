@@ -1,0 +1,12 @@
+C:\Users\sudip.ranabhat\source\repos\FD.API\FD.BLL\bin\Debug\netcoreapp3.1\FD.BLL.deps.json
+C:\Users\sudip.ranabhat\source\repos\FD.API\FD.BLL\bin\Debug\netcoreapp3.1\FD.BLL.dll
+C:\Users\sudip.ranabhat\source\repos\FD.API\FD.BLL\obj\Debug\netcoreapp3.1\FD.BLL.csprojAssemblyReference.cache
+C:\Users\sudip.ranabhat\source\repos\FD.API\FD.BLL\obj\Debug\netcoreapp3.1\FD.BLL.AssemblyInfoInputs.cache
+C:\Users\sudip.ranabhat\source\repos\FD.API\FD.BLL\obj\Debug\netcoreapp3.1\FD.BLL.AssemblyInfo.cs
+C:\Users\sudip.ranabhat\source\repos\FD.API\FD.BLL\bin\Debug\netcoreapp3.1\FD.BLL.pdb
+C:\Users\sudip.ranabhat\source\repos\FD.API\FD.BLL\obj\Debug\netcoreapp3.1\FD.BLL.dll
+C:\Users\sudip.ranabhat\source\repos\FD.API\FD.BLL\obj\Debug\netcoreapp3.1\FD.BLL.pdb
+C:\Users\sudip.ranabhat\source\repos\FD.API\FD.BLL\bin\Debug\netcoreapp3.1\FD.DAL.dll
+C:\Users\sudip.ranabhat\source\repos\FD.API\FD.BLL\bin\Debug\netcoreapp3.1\FD.DAL.pdb
+C:\Users\sudip.ranabhat\source\repos\FD.API\FD.BLL\obj\Debug\netcoreapp3.1\FD.BLL.csproj.CopyComplete
+C:\Users\sudip.ranabhat\source\repos\FD.API\FD.BLL\obj\Debug\netcoreapp3.1\FD.BLL.csproj.CoreCompileInputs.cache

@@ -1,0 +1,9 @@
+C:\Users\sudip.ranabhat\source\repos\FD.API\FD.DAL\bin\Debug\netcoreapp3.1\FD.DAL.deps.json
+C:\Users\sudip.ranabhat\source\repos\FD.API\FD.DAL\bin\Debug\netcoreapp3.1\FD.DAL.dll
+C:\Users\sudip.ranabhat\source\repos\FD.API\FD.DAL\bin\Debug\netcoreapp3.1\FD.DAL.pdb
+C:\Users\sudip.ranabhat\source\repos\FD.API\FD.DAL\obj\Debug\netcoreapp3.1\FD.DAL.AssemblyInfoInputs.cache
+C:\Users\sudip.ranabhat\source\repos\FD.API\FD.DAL\obj\Debug\netcoreapp3.1\FD.DAL.AssemblyInfo.cs
+C:\Users\sudip.ranabhat\source\repos\FD.API\FD.DAL\obj\Debug\netcoreapp3.1\FD.DAL.dll
+C:\Users\sudip.ranabhat\source\repos\FD.API\FD.DAL\obj\Debug\netcoreapp3.1\FD.DAL.pdb
+C:\Users\sudip.ranabhat\source\repos\FD.API\FD.DAL\obj\Debug\netcoreapp3.1\FD.DAL.csproj.CoreCompileInputs.cache
+C:\Users\sudip.ranabhat\source\repos\FD.API\FD.DAL\obj\Debug\netcoreapp3.1\FD.DAL.csprojAssemblyReference.cache
