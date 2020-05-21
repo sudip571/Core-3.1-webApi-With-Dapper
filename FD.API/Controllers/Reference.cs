@@ -15,7 +15,7 @@ using Serilog;
 namespace FD.API.Controllers
 {
     [Route("api/reference")]
-   // [Authorize]
+    [Authorize]
     [ApiController]
     public class Reference : ControllerBase
     {
@@ -24,8 +24,7 @@ namespace FD.API.Controllers
         {
             _referenceService = referenceService;
         }
-        // GET: api/reference
-        [Authorize]
+        // GET: api/reference        
         [HttpGet]
         public ActionResult Get()
         {
